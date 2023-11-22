@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PR6-Docker.props" />
+</Project>
